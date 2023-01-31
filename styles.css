@@ -1,0 +1,76 @@
+/* CSS Document */
+
+* {
+	margin: 0;
+	padding: 0;
+	border: 0;
+}
+
+body {
+	background-color: #e4f2ea;
+}
+
+.menus {
+  background-color: #11181e;
+  grid-area: menus;
+  display: block;
+  list-style-type: none;
+  text-decoration: none;
+  flex-direction: column;
+  justify-content: start;
+}
+
+.menus div {
+	display: inline-block;
+	font-size: 1.5em;
+	width: 15%;
+	padding: 0% 2%;
+	padding-top: .5em;
+}
+
+.box1 {
+    color: #fff;
+}
+
+nav li a{
+	color: #fff;
+	padding: 0.5em 1em;
+	text-decoration: none;
+	list-style-type: none;
+}
+
+section {
+	color: #e4f2ea;
+}
+
+
+header {
+	min-height: 400px;
+	background-color: #734f2f;
+	background-image: url("../images/appearance_beagle.jpg");
+	Background-repeat: no-repeat;
+	background-size: cover;
+	background-position: 20% 20%;
+}
+
+nav a:hover{
+	
+}
+
+h1 {
+		
+}
+
+h2 {
+		
+}
+
+blockquote {
+		
+}
+
+table {
+		
+}
+
+/* 1 sudo class:(nav a:hover) */
